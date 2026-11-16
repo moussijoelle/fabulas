@@ -1,28 +1,26 @@
-# Fábulas — La gallina de los huevos de oro
+# La gallina de los huevos de oro
 
-Página estática con la fábula de Samaniego y su moraleja. Ejercicio de maquetación HTML/CSS.
+Página de lectura: la fábula de Samaniego maquetada en HTML/CSS, con la moraleja al final.
 
 ## Qué hace
 
-- Muestra el texto de la fábula con imagen
-- Destaca la moraleja al final
-- Cita al autor (Félix María de Samaniego)
+- Texto completo de la fábula e imagen
+- Autor al pie (`address`)
+- Moraleja destacada
 
 ## Cómo probarlo
 
-Abre `index.html` o la demo (no necesita JavaScript).
+Solo HTML/CSS: abre `index.html`.
 
 Demo: https://moussijoelle.github.io/fabulas/
 
 ## Cómo lo construí
 
-- HTML semántico (`article`, `address`, etc.)
-- Estilos en `css/estilos.css`
-- Imagen en `img/`
+HTML semántico (`article`, etc.) y estilos en `css/estilos.css`. Imagen en `img/`.
 
 ## Cómo verificarlo
 
-Sin tests. Abro la página y reviso tipografía, imagen y que la moraleja se lea bien.
+Leo la página de arriba abajo: tipografía, imagen y que la moraleja se lea sin pelearse con el resto.
 
 ---
 
